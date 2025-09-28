@@ -85,6 +85,11 @@ This will print something like:
 <npm-root>/genpas/passwords.json
 ```
 
+To access your password you can easily do 
+```
+cat <npm-root>/genpas/passwords.json
+```
+
 ### Quick commands to open the file
 
 **Windows (PowerShell)**
