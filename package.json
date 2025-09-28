@@ -1,0 +1,19 @@
+{
+  "name": "genpas",
+  "version": "1.0.5",
+  "description": "A simple password generator CLI with label saving (Dont worry we dont store your passwords anywhere)",
+  "main": "index.js",
+  "bin": {
+    "genpass": "./index.js"
+  },
+  "keywords": [
+    "cli",
+    "password",
+    "generator"
+  ],
+  "author": "Suryansh GArg",
+  "license": "MIT",
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
